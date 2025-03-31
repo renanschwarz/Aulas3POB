@@ -15,6 +15,4 @@ public class SomaDeDoisNumeros {
         System.out.println("A soma dos valores é: " + soma);
         entrada.close();
     }
-
-
 }
