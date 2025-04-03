@@ -6,7 +6,7 @@ das categorias abaixo, utilizando if-else:
 • Adulto (entre 18 e 60 anos)
 • Idoso (mais de 60 anos) */
 
-package Exercicio2;
+package Exercicios2;
 
 import java.util.Scanner;
 

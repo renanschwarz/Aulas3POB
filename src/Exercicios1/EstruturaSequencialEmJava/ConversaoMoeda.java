@@ -1,4 +1,4 @@
-package Exercicio1.EstruturaSequencialEmJava;
+package Exercicios1.EstruturaSequencialEmJava;
 
 import java.util.Scanner;
 

@@ -11,7 +11,7 @@ Tabela de Conceitos:
 Requisitos:
 • Se a nota estiver fora do intervalo 0 a 10, exibir "Nota inválida.". */
 
-package Exercicio2;
+package Exercicios2;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package Exercicio1.exemploPOO.dominio;
+package Exercicios1.exemploPOO.dominio;
 
 public class Produto {
     private int codigo;

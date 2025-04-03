@@ -8,7 +8,7 @@ Requisitos:
 • Se o número for divisível por 2, exibir "O número é par."
 • Caso contrário, exibir "O número é ímpar.". */
 
-package Exercicio2;
+package Exercicios2;
 
 import java.util.Scanner;
 

@@ -9,7 +9,7 @@ Requisitos:
 • Se a operação for divisão (/), verificar se o segundo número é zero antes de
 calcular. */
 
-package Exercicio2;
+package Exercicios2;
 
 import java.util.Scanner;
 

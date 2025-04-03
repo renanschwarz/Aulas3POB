@@ -1,5 +1,5 @@
-package Exercicio1.exemploPOO.controle;
-import Exercicio1.exemploPOO.dominio.Produto;
+package Exercicios1.exemploPOO.controle;
+import Exercicios1.exemploPOO.dominio.Produto;
 
 public class ControlaProduto {
     public static void main(String[] args) {
